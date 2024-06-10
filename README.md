@@ -77,11 +77,11 @@ echo "hello world"
 
 # 테이블
 |제목|
-|---|
+|:---:|
 |내용|
 
 |가나다라마바사|아자차카타파하|에비씨디이에프지|  
-|-|-|-|  
+|:-:|:-:|:-:|  
 |내용|내용2|내용3|
 
 <div align = "center">
@@ -97,3 +97,18 @@ echo "hello world"
 
 
 [![이미지에 대한 설명](https://plus.unsplash.com/premium_photo-1688678097388-a0c77ea9ace1?q=80&w=1146&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)](https://naver.com)
+
+
+
+[![이미지에 대한 설명](https://plus.unsplash.com/premium_photo-1688678097388-a0c77ea9ace1?q=80&w=1146&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)](https://naver.com)
+
+
+[![이미지에 대한 설명](https://images.unsplash.com/photo-1717157801607-47d172d858bf?q=80&w=1302&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)](https://naver.com)
+
+## 팀원 소개
+
+|이세형|고우빈|유영국|
+|:-:|:-:|:-:|  
+|[SeHyoung1024](https://github.com/SeHyoung1024)|[woobeen0511](https://github.com/SeHyoung1024)|[ygyoouk](https://github.com/ygyoouk)|
+|![](123.png)|![](1234.png)|![](12345.png)|
+|**총괄개발**|**프론트엔드**|**백엔드**
